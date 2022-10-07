@@ -9,5 +9,7 @@ Reverse of a matrix.
 
 # 📝 HW2
 Reordering of a tensor. 
+# Results
+HW1: Almost everyone has passed every test.
 #
-Only 7 out of 300+ people that have successfully passed all the tests.
+HW2: Only 7 out of 300+ people that have successfully passed all the tests.
