@@ -1,7 +1,7 @@
 # 🛠️⚙️ Computer Architectures
 Homework for the course of computer architectures.
 
-# Programming language
+# 📁Programming language
 During the course we've been programming in Assembly, from the basics (indexing bytes) to recursion. 
 
 # 📝 HW1
