@@ -1,11 +1,11 @@
-# 🛠️🖥 ComputerArchitecture
+# 🛠️⚙️ Computer Architectures
 Homework for the course of computer architectures.
 
 # Programming language
-Thoru
+During the course we've been programming in Assembly, from the basics (indexing bytes) to recursion. 
 
-# HW1
+#📝 HW1
 Reverse of a matrix.
 
-# HW2
+#📝 HW2
 Reordering of a n-dimensional array.
