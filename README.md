@@ -1,4 +1,4 @@
-# ComputerArchitecture
+# 🛠️🖥 ComputerArchitecture
 Homework for the course of computer architectures.
 
 # Programming language
