@@ -8,4 +8,5 @@ During the course we've been programming in Assembly, from the basics (indexing 
 Reverse of a matrix.
 
 # 📝 HW2
-Reordering of a tensor. I've been one of the 7 out of 300+ people that have successfully passed all the tests.
+Reordering of a tensor. 
+# I've been one of the 7 out of 300+ people that have successfully passed all the tests.
