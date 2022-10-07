@@ -8,4 +8,4 @@ During the course we've been programming in Assembly, from the basics (indexing 
 Reverse of a matrix.
 
 # 📝 HW2
-Reordering of a n-dimensional array.
+Reordering of a tensor.
